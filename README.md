@@ -5,12 +5,12 @@ Zadatak je bio implementirati Android aplikaciju koja dohvaća određene podatke
 - prikaz profila izvođača sa osnovnim informacijama o izvođaču i njegovim pjesmama
 - prikaz informacija o pjesmi sa, za početak, poveznicom na npr. Youtube gdje bi se mogla preslušati pjesma
 - društveno umrežavanje
-    o praćenje korisnika
-    o „lajkanje“, ocjenjivanje, dijeljenje i komentiranje pjesama i izvođača
-    o „lajkanje“, ocjenjivanje i komentiranje pjesama i izvođača koje su drugi korisnici podijelili na svom profilu (korisničkih objava na profilu)
-    o prikaz korisničkog profila sa podijeljenim pjesmama i izvođačima
-    o prikaz najslušanijih izvođača korisnika u aplikaciji
-    o prikaz najslušanijih pjesama korisnika u aplikaciji
-    o prikaz najbolje ocijenjenih pjesama korisnika u aplikaciji
+    - praćenje korisnika
+    - „lajkanje“, ocjenjivanje, dijeljenje i komentiranje pjesama i izvođača
+    - „lajkanje“, ocjenjivanje i komentiranje pjesama i izvođača koje su drugi korisnici podijelili na svom profilu (korisničkih objava na profilu)
+    - prikaz korisničkog profila sa podijeljenim pjesmama i izvođačima
+    - prikaz najslušanijih izvođača korisnika u aplikaciji
+    - prikaz najslušanijih pjesama korisnika u aplikaciji
+    - prikaz najbolje ocijenjenih pjesama korisnika u aplikaciji
 
 Aplikacija je pisana u Java programskom jeziku, a korišten je uzorak MVVM.
